@@ -1,0 +1,272 @@
+[
+    {
+        "id": 89,
+        "name": "Farmers Pick",
+        "amt": "299",
+        "shop": "Pizza Hut",
+        "ftype": "Pizza",
+        "pic": "https://www.app.tutorjoes.in/img/food/89.jpg",
+        "latest": "No"
+    },
+    {
+        "id": 90,
+        "name": "Margherita",
+        "amt": "249",
+        "shop": "Domino's",
+        "ftype": "Pizza",
+        "pic": "https://www.app.tutorjoes.in/img/food/90.jpg",
+        "latest": "Yes"
+    },
+    {
+        "id": 91,
+        "name": "Cheese Burst",
+        "amt": "399",
+        "shop": "Pizza Hut",
+        "ftype": "Pizza",
+        "pic": "https://www.app.tutorjoes.in/img/food/91.jpg",
+        "latest": "No"
+    },
+    {
+        "id": 92,
+        "name": "Veg Extravaganza",
+        "amt": "459",
+        "shop": "Domino's",
+        "ftype": "Pizza",
+        "pic": "https://www.app.tutorjoes.in/img/food/92.jpg",
+        "latest": "Yes"
+    },
+    {
+        "id": 93,
+        "name": "Pepperoni",
+        "amt": "499",
+        "shop": "Pizza Hut",
+        "ftype": "Pizza",
+        "pic": "https://www.app.tutorjoes.in/img/food/93.jpg",
+        "latest": "No"
+    },
+    {
+        "id": 94,
+        "name": "BBQ Chicken",
+        "amt": "529",
+        "shop": "Domino's",
+        "ftype": "Pizza",
+        "pic": "https://www.app.tutorjoes.in/img/food/94.jpg",
+        "latest": "Yes"
+    },
+    {
+        "id": 95,
+        "name": "Hawaiian",
+        "amt": "389",
+        "shop": "Pizza Hut",
+        "ftype": "Pizza",
+        "pic": "https://www.app.tutorjoes.in/img/food/95.jpg",
+        "latest": "No"
+    },
+    {
+        "id": 96,
+        "name": "Mexican Green Wave",
+        "amt": "449",
+        "shop": "Domino's",
+        "ftype": "Pizza",
+        "pic": "https://www.app.tutorjoes.in/img/food/96.jpg",
+        "latest": "Yes"
+    },
+    {
+        "id": 97,
+        "name": "Chicken Tikka",
+        "amt": "479",
+        "shop": "Pizza Hut",
+        "ftype": "Pizza",
+        "pic": "https://www.app.tutorjoes.in/img/food/97.jpg",
+        "latest": "No"
+    },
+    {
+        "id": 98,
+        "name": "Paneer Makhani",
+        "amt": "299",
+        "shop": "Domino's",
+        "ftype": "Pizza",
+        "pic": "https://www.app.tutorjoes.in/img/food/98.jpg",
+        "latest": "Yes"
+    },
+    {
+        "id": 99,
+        "name": "Spicy Veggie",
+        "amt": "349",
+        "shop": "Pizza Hut",
+        "ftype": "Pizza",
+        "pic": "https://www.app.tutorjoes.in/img/food/99.jpg",
+        "latest": "No"
+    },
+    {
+        "id": 100,
+        "name": "Italiano",
+        "amt": "499",
+        "shop": "Domino's",
+        "ftype": "Pizza",
+        "pic": "https://www.app.tutorjoes.in/img/food/100.jpg",
+        "latest": "Yes"
+    },
+    {
+        "id": 101,
+        "name": "Veggie Paradise",
+        "amt": "399",
+        "shop": "Pizza Hut",
+        "ftype": "Pizza",
+        "pic": "https://www.app.tutorjoes.in/img/food/101.jpg",
+        "latest": "No"
+    },
+    {
+        "id": 102,
+        "name": "Chicken Dominator",
+        "amt": "529",
+        "shop": "Domino's",
+        "ftype": "Pizza",
+        "pic": "https://www.app.tutorjoes.in/img/food/102.jpg",
+        "latest": "Yes"
+    },
+    {
+        "id": 103,
+        "name": "Veggie Supreme",
+        "amt": "359",
+        "shop": "Pizza Hut",
+        "ftype": "Pizza",
+        "pic": "https://www.app.tutorjoes.in/img/food/103.jpg",
+        "latest": "No"
+    },
+    {
+        "id": 104,
+        "name": "Chicken Supreme",
+        "amt": "479",
+        "shop": "Domino's",
+        "ftype": "Pizza",
+        "pic": "https://www.app.tutorjoes.in/img/food/104.jpg",
+        "latest": "Yes"
+    },
+    {
+        "id": 105,
+        "name": "Veggie Crunch",
+        "amt": "399",
+        "shop": "Pizza Hut",
+        "ftype": "Pizza",
+        "pic": "https://www.app.tutorjoes.in/img/food/105.jpg",
+        "latest": "No"
+    },
+    {
+        "id": 106,
+        "name": "Tandoori Paneer",
+        "amt": "429",
+        "shop": "Domino's",
+        "ftype": "Pizza",
+        "pic": "https://www.app.tutorjoes.in/img/food/106.jpg",
+        "latest": "Yes"
+    },
+    {
+        "id": 107,
+        "name": "Double Cheese",
+        "amt": "319",
+        "shop": "Pizza Hut",
+        "ftype": "Pizza",
+        "pic": "https://www.app.tutorjoes.in/img/food/107.jpg",
+        "latest": "No"
+    },
+    {
+        "id": 108,
+        "name": "Veggie Feast",
+        "amt": "369",
+        "shop": "Domino's",
+        "ftype": "Pizza",
+        "pic": "https://www.app.tutorjoes.in/img/food/108.jpg",
+        "latest": "Yes"
+    },
+    {
+        "id": 109,
+        "name": "Spicy Chicken",
+        "amt": "449",
+        "shop": "Pizza Hut",
+        "ftype": "Pizza",
+        "pic": "https://www.app.tutorjoes.in/img/food/109.jpg",
+        "latest": "No"
+    },
+    {
+        "id": 110,
+        "name": "Paneer Tikka",
+        "amt": "489",
+        "shop": "Domino's",
+        "ftype": "Pizza",
+        "pic": "https://www.app.tutorjoes.in/img/food/110.jpg",
+        "latest": "Yes"
+    },
+    {
+        "id": 111,
+        "name": "Cheese & Corn",
+        "amt": "279",
+        "shop": "Pizza Hut",
+        "ftype": "Pizza",
+        "pic": "https://www.app.tutorjoes.in/img/food/111.jpg",
+        "latest": "No"
+    },
+    {
+        "id": 112,
+        "name": "Chicken Sausage",
+        "amt": "349",
+        "shop": "Domino's",
+        "ftype": "Pizza",
+        "pic": "https://www.app.tutorjoes.in/img/food/112.jpg",
+        "latest": "Yes"
+    },
+    {
+        "id": 113,
+        "name": "Farmhouse",
+        "amt": "389",
+        "shop": "Pizza Hut",
+        "ftype": "Pizza",
+        "pic": "https://www.app.tutorjoes.in/img/food/113.jpg",
+        "latest": "No"
+    },
+    {
+        "id": 114,
+        "name": "Veg Supreme",
+        "amt": "459",
+        "shop": "Domino's",
+        "ftype": "Pizza",
+        "pic": "https://www.app.tutorjoes.in/img/food/114.jpg",
+        "latest": "Yes"
+    },
+    {
+        "id": 115,
+        "name": "Peri Peri Chicken",
+        "amt": "509",
+        "shop": "Pizza Hut",
+        "ftype": "Pizza",
+        "pic": "https://www.app.tutorjoes.in/img/food/115.jpg",
+        "latest": "No"
+    },
+    {
+        "id": 116,
+        "name": "Veggie Delight",
+        "amt": "359",
+        "shop": "Domino's",
+        "ftype": "Pizza",
+        "pic": "https://www.app.tutorjoes.in/img/food/116.jpg",
+        "latest": "Yes"
+    },
+    {
+        "id": 117,
+        "name": "Chicken BBQ",
+        "amt": "489",
+        "shop": "Pizza Hut",
+        "ftype": "Pizza",
+        "pic": "https://www.app.tutorjoes.in/img/food/117.jpg",
+        "latest": "No"
+    },
+    {
+        "id": 118,
+        "name": "Cheese Margherita",
+        "amt": "229",
+        "shop": "Domino's",
+        "ftype": "Pizza",
+        "pic": "https://www.app.tutorjoes.in/img/food/118.jpg",
+        "latest": "Yes"
+    }
+]
